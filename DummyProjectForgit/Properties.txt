@@ -1,1 +1,2 @@
 Hello Dummy git project1
+Adding some new line
